@@ -1,0 +1,1 @@
+# laberinth_solving
